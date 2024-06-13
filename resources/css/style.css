@@ -3,12 +3,14 @@
   padding: 0;
   box-sizing: border-box;
 }
-
+html{
+  scroll-behavior: smooth;
+}
 body {
   font-family: Poppins;
   color: #283618;
   background-color: #ffefcd;
-  scroll-behavior: smooth;
+  
 }
 a {
   text-decoration: none;
