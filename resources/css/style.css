@@ -8,7 +8,7 @@ body {
   font-family: Poppins;
   color: #283618;
   background-color: #ffefcd;
-  scroll-behaviour: smooth;
+  scroll-behavior: smooth;
 }
 a {
   text-decoration: none;
@@ -148,7 +148,4 @@ footer{
   text-align: center;
   padding: 10px;
   padding-bottom: 30px;
-  width: 100%;
-  position: fixed;
-  bottom: 0px;
 }
