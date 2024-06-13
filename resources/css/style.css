@@ -3,10 +3,12 @@
   padding: 0;
   box-sizing: border-box;
 }
+
 body {
   font-family: Poppins;
   color: #283618;
   background-color: #ffefcd;
+  scroll-behavour: smooth;
 }
 a {
   text-decoration: none;
@@ -147,4 +149,7 @@ footer{
  
   padding: 10px;
   padding-bottom: 30px;
+  width: 100%
+  position: fixed;
+  bottom: 0px;
 }
